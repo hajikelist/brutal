@@ -1,4 +1,4 @@
 brutal
 ======
 
-Brutal Application Framework. A php application built for rapid scaffolding and application development.
+Brutal Application Framework. An application built for rapid prototyping, scaffolding, and application development.
